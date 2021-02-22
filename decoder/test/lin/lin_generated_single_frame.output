@@ -4,3 +4,4 @@
 2005061-2009228 lin: data: "Data: 0x11" "D: 0x11"
 2010782-2014949 lin: data: "Data: 0x11" "D: 0x11"
 2016502-2020669 lin: data: "Checksum: 0x1C" "Checksum" "Chk" "C"
+1983069-2020669 lin: frame: "0x01: 0x11 0x11"
